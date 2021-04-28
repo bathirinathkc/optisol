@@ -1,0 +1,19 @@
+.p-t-50 {
+  padding-top:50px;
+}
+.footer{
+  margin-top: 10px;
+  padding: 5px;
+  background-color:#20232a;
+  color:#ffffff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+p{
+  color: #FF0000;
+}
+.table > thead > tr > th{
+  background-color: #00eec238;
+}
